@@ -1,5 +1,5 @@
 # SBP Miner
-[![Discord](https://img.shields.io/discord/527428494154792960?label=Discord%20-%20SuperBlockchain%20Pool%20)](https://discord.gg/vcT9XvxZVV) 
+[![Discord](https://img.shields.io/discord/443790652803645451?label=Discord%20-%20SuperBlockchain%20Pool%20)](https://discord.gg/vcT9XvxZVV) 
 [![GitHub All Releases](https://img.shields.io/github/downloads/SuperBlockchain-Pool/sbp-miner/total?label=Downloads)](https://github.com/SuperBlockchain-Pool/sbp-miner/releases) 
 ![Version](https://img.shields.io/github/v/release/SuperBlockchain-Pool/sbp-miner)
 
