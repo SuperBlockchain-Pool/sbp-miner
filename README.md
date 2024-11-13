@@ -12,6 +12,6 @@ SBP is a high-performance cross-platform CPU Miner. Official binaries are availa
 [Binary releases](https://github.com/SuperBlockchain-Pool/sbp-miner/releases)
 
 ## Donation
-**BTC:** 17qFGHhPWLQrGsd9k8BUGNdFerJKijaJCa
-**LTC:** LYX2vPD1HDRYPxeLfVUZCq4FUmnKd8d9g1
-**DME:** dmeVMjTMcTJhRNLRaUVHsnTkcrYhmkgKHBN55LYwA2ScM1qW6YamunJ8YTfz66nSz8hvGCKc9V4A8cEaWDRxbbtk4dCDfT93zg
+- **BTC:** 17qFGHhPWLQrGsd9k8BUGNdFerJKijaJCa
+- **LTC:** LYX2vPD1HDRYPxeLfVUZCq4FUmnKd8d9g1
+- **DME:** dmeVMjTMcTJhRNLRaUVHsnTkcrYhmkgKHBN55LYwA2ScM1qW6YamunJ8YTfz66nSz8hvGCKc9V4A8cEaWDRxbbtk4dCDfT93zg
